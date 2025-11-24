@@ -26,14 +26,14 @@ Actualmente lidero el departamento de IT en el sector retail (ferretería) y est
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&count_private=true" height="180" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&langs_count=8" height="180" alt="languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=AvelarXD13&show_icons=true&theme=radical&count_private=true" height="180" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvelarXD13&layout=compact&theme=radical&langs_count=8" height="180" alt="languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AvelarXD13&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
