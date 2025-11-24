@@ -25,10 +25,11 @@ Actualmente lidero el departamento de IT en el sector retail (ferretería) y est
 
 ### 📊 Estadísticas de GitHub
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AvelarXD13&show_icons=true&theme=radical&count_private=true" height="180" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvelarXD13&layout=compact&theme=radical&langs_count=8" height="180" alt="languages" />
-</div>
+### 📊 Estadísticas de GitHub
+
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=AvelarXD13&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AvelarXD13&layout=compact&theme=radical)
 
 <br>
 
