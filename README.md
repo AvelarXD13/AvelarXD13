@@ -33,7 +33,7 @@ Actualmente lidero el departamento de IT en el sector retail (ferretería) y est
 ### 📊 Mis Estadísticas
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=AvelarXD13&theme=darkhub&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvelarXD13&theme=darkhub&hide_border=true" alt="Streak" />
   
   <br><br>
 
