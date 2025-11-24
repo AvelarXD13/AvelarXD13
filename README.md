@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hola, soy [Tu Nombre] 👋
+### Jefe de IT | Ingeniero Informático | Emprendedor Tech
 
-<!--
-**AvelarXD13/AvelarXD13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil! Soy un apasionado por la tecnología con un enfoque híbrido: gestiono infraestructura crítica empresarial y desarrollo soluciones de software modernas.
 
-Here are some ideas to get you started:
+Actualmente lidero el departamento de IT en el sector retail (ferretería) y estoy construyendo mi propia iniciativa de servicios de desarrollo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Actualmente trabajando en:** Optimización de consultas complejas en **SAP Business One**, automatización de jobs en SQL y el desarrollo de aplicaciones con **React**.
+- 🌱 **Aprendiendo:** Procesamiento de Lenguaje Natural (**NLP**), Machine Learning y el idioma **Polaco** (Cześć! 🇵🇱).
+- 👯 **Busco colaborar en:** Proyectos de integración de ERPs y desarrollo de Apps móviles/web.
+- 💬 **Pregúntame sobre:** SQL avanzado, SAP B1, configuración de Fortinet/VMware o despliegues en PocketBase/Firebase.
+- 📫 **Contáctame:** avelark05@gmail.com
+
+---
+
+### 🛠️ Mi Arsenal Tecnológico
+
+#### 💻 Desarrollo & Datos
+`React` `React Native` `SQL Server` `SAP Business One` `Firebase` `PocketBase` `Gemini API` `Crystal Reports`
+
+#### 📡 Infraestructura & Redes
+`VMware` `Fortinet` `Windows Server` `Soporte IT`
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&count_private=true" height="180" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&langs_count=8" height="180" alt="languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+---
+[Linkedin]https://www.linkedin.com/in/kevin-edgardo-avelar-calderon-828929159/
