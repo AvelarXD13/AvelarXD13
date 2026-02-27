@@ -23,17 +23,10 @@ Actualmente lidero el departamento de IT en el sector retail (ferretería) y est
 
 ---
 
-### 🏆 Mis Logros
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AvelarXD13&theme=darkhub&no-frame=true&column=7" />
-</div>
-
-<br>
-
 ### 📊 Mis Estadísticas
 <div align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AvelarXD13&theme=dark&locale=es&short_numbers=true&exclude_days=Sun)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AvelarXD13&theme=dark&locale=es&short_numbers=true&exclude_days=%2CSat)](https://git.io/streak-stats)
   
   <br>
 
