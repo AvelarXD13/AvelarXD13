@@ -41,7 +41,7 @@ Actualmente lidero el departamento de IT en el sector retail (ferretería) y est
 </div>
 
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvelarXD13)](https://github.com/AvelarXD13/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvelarXD13&theme=tokyonight)]
 </div>
 
 ---
