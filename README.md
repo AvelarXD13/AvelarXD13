@@ -40,5 +40,9 @@ Actualmente lidero el departamento de IT en el sector retail (ferretería) y est
   <img src="https://komarev.com/ghpvc/?username=AvelarXD13&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvelarXD13)](https://github.com/AvelarXD13/github-readme-stats)
+</div>
+
 ---
 [Linkedin]https://www.linkedin.com/in/kevin-edgardo-avelar-calderon-828929159/
