@@ -9,9 +9,8 @@ Actualmente lidero el departamento de IT en el sector retail (ferretería) y est
 - 🌱 **Aprendiendo:** Procesamiento de Lenguaje Natural (**NLP**), Machine Learning y el idioma **Polaco** (Cześć! 🇵🇱).
 - 👯 **Busco colaborar en:** Proyectos de integración de ERPs y desarrollo de Apps móviles/web.
 - 💬 **Pregúntame sobre:** SQL avanzado, SAP B1, configuración de Fortinet/VMware o despliegues en PocketBase/Firebase.
-- 📫 **Contáctame:** avelark05@gmail.com
-
 - 🖧 **Creador de Aura ERP:** Sistema ERP, multiempresa, con facturación fiscal de Honduras y administración contable
+- 📫 **Contáctame:** avelark05@gmail.com
 
 ---
 
