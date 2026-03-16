@@ -11,15 +11,17 @@ Actualmente lidero el departamento de IT en el sector retail (ferretería) y est
 - 💬 **Pregúntame sobre:** SQL avanzado, SAP B1, configuración de Fortinet/VMware o despliegues en PocketBase/Firebase.
 - 📫 **Contáctame:** avelark05@gmail.com
 
+- 🖧 **Creador de Aura ERP:** Sistema ERP, multiempresa, con facturación fiscal de Honduras y administración contable
+
 ---
 
 ### 🛠️ Mi Arsenal Tecnológico
 
 #### 💻 Desarrollo & Datos
-`React` `React Native` `SQL Server` `SAP Business One` `Firebase` `PocketBase` `Gemini API` `Crystal Reports`
+`React` `React Native` `SQL Server` `SAP Business One` `Firebase` `PocketBase` `Crystal Reports`
 
 #### 📡 Infraestructura & Redes
-`VMware` `Fortinet` `Windows Server` `Soporte IT`
+`VMware` `Fortinet` `Windows Server` `GrandStream` `Soporte IT`
 
 ---
 
@@ -38,10 +40,6 @@ Actualmente lidero el departamento de IT en el sector retail (ferretería) y est
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AvelarXD13&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
-<div align="center">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvelarXD13&theme=tokyonight)]
 </div>
 
 ---
