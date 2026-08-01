@@ -1,9 +1,9 @@
 # Hola, soy Kevin Avelar 👋
-### Jefe de IT | Ingeniero Informático | Emprendedor Tech
+### Desarrollador Full-Stack | Consultor SAP B1 | Ingeniero Informático | Emprendedor Tech
 
 ¡Bienvenido a mi perfil! Soy un apasionado por la tecnología con un enfoque híbrido: gestiono infraestructura crítica empresarial y desarrollo soluciones de software modernas.
 
-Actualmente lidero el departamento de IT en el sector retail (ferretería) y estoy construyendo mi propia iniciativa de servicios de desarrollo.
+Actualmente soy consultor en SAP B1, desarrollador full stack y estoy construyendo mi propia iniciativa de servicios de desarrollo.
 
 - 🔭 **Actualmente trabajando en:** Optimización de consultas complejas en **SAP Business One**, automatización de jobs en SQL y el desarrollo de aplicaciones con **React**.
 - 🌱 **Aprendiendo:** Procesamiento de Lenguaje Natural (**NLP**), Machine Learning y el idioma **Polaco** (Cześć! 🇵🇱).
