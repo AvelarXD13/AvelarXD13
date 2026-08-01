@@ -1,5 +1,5 @@
 # Hola, soy Kevin Avelar 👋
-### Desarrollador Full-Stack | Consultor SAP B1 | Ingeniero Informático | Emprendedor Tech
+### IT Systems Engineer | Full-Stack Developer | SAP Business One & SQL Expert
 
 ¡Bienvenido a mi perfil! Soy un apasionado por la tecnología con un enfoque híbrido: gestiono infraestructura crítica empresarial y desarrollo soluciones de software modernas.
 
@@ -42,4 +42,4 @@ Actualmente soy consultor en SAP B1, desarrollador full stack y estoy construyen
 </div>
 
 ---
-[Linkedin]https://www.linkedin.com/in/kevin-edgardo-avelar-calderon-828929159/
+[Linkedin]https://www.linkedin.com/in/kevin-avelar-it/
