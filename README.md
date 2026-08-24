@@ -26,8 +26,8 @@ Actualmente soy consultor en SAP B1, desarrollador full stack y estoy construyen
 
 ### 📊 Mis Estadísticas
 <div align="center">
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=AvelarXD13&theme=dark&border_radius=5&locale=es&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Avelark05&theme=dark&locale=es&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
   
   <br>
 
